@@ -34,6 +34,6 @@
 	</root>
 
 	<logger name="com.j256.ormlite" level="ERROR"/>
-	<logger name="com.project" level="WARN"/>
+	<logger name="com.project" level="DEBUG"/>
 
 </configuration>
