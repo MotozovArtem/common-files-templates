@@ -865,4 +865,8 @@ logs
 db
 release
 debug
+*.db
+*.lck
+*.bak*
+
 # End of https://www.toptal.com/developers/gitignore/api/androidstudio,eclipse,intellij+iml,visualstudio,visualstudiocode,java,kotlin,groovy,python,c++,dotnetcore
